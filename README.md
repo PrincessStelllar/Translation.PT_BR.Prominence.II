@@ -1,7 +1,7 @@
 # Prominence™ II: Hasturian Era (Tradução PT_BR)
 ___
 
-+ Este é o repositório para a tradução da quest PT_BR feita por PrincessStellar
++ Este é o repositório de tradução para as quest em PT_BR, feita por PrincessStellar
 + Não possuo vínculo com o modpack, apenas traduzi para a comunidade BR.
 
 ### Modpack:
@@ -56,6 +56,7 @@ ___
 |:------------:|
 |<a href="https://discord.gg/r8zyeTXSsb"><img src="https://discordapp.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" alt="Join us on Discord!"  width="200" height="68"></a>
 <br>
+
 
 
 
