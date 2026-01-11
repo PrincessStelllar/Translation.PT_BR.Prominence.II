@@ -4,6 +4,9 @@ ___
 + Este é o repositório para a tradução da quest PT_BR feita por PrincessStellar
 + Não possuo vínculo com o modpack, apenas traduzi para a comunidade BR.
 
+### Modpack:
++ [![Prominence™ II: Hasturian Era](http://cf.way2muchnoise.eu/466901.svg "PROM2") Prominence™ II: Hasturian Era](https://www.curseforge.com/minecraft/modpacks/prominence-2-hasturian-era)
+
 ### **PT\_BR** 
 + Obrigada por ter baixado a tradução para **Prominence™ II: Hasturian Era**!
 + Se você baixou esta tradução, por favor, não remova os créditos, pois foram feitos com dedicação;
@@ -24,10 +27,11 @@ ___
 |<a href="https://discord.gg/r8zyeTXSsb"><img src="https://discordapp.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" alt="Entre no meu Discord!"  width="200" height="68"></a>
 <br>
 
+___
+
 ### Modpack:
 + [![Prominence™ II: Hasturian Era](http://cf.way2muchnoise.eu/466901.svg "PROM2") Prominence™ II: Hasturian Era](https://www.curseforge.com/minecraft/modpacks/prominence-2-hasturian-era)
 
-___
 ### **EN\_US** 
 + This is the repository for quest translation PT_BR made by PrincessStellar
 + I have no affiliation with the modpack, I only translated it for the BR community.
@@ -51,8 +55,7 @@ ___
 |<a href="https://discord.gg/r8zyeTXSsb"><img src="https://discordapp.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" alt="Join us on Discord!"  width="200" height="68"></a>
 <br>
 
-### Modpack:
-+ [![Prominence™ II: Hasturian Era](http://cf.way2muchnoise.eu/466901.svg "PROM2") Prominence™ II: Hasturian Era](https://www.curseforge.com/minecraft/modpacks/prominence-2-hasturian-era)
+
 
 
 
