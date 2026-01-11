@@ -11,6 +11,8 @@ ___
 + Compartilhar o link de download é totalmente livre e fica à vontade para espalhar!
 + Porém, tente entrar no meu servidor do Discord também! Será um prazer tê-lo por lá para compartilhar mais novidades e interagir com a comunidade.
 + Não perca a chance de se juntar a uma comunidade incrível!
++ A reutilização da tradução com fins monetários por terceiros não é permitida. O uso é exclusivo para fins individuais, e todos os direitos são reservados à tradutora das quests.
++ A apropriação indevida da tradução, atribuindo a autoria a outra pessoa, é estritamente proibida. Todos os direitos autorais pertencem à tradutora das quests.
 
 ## Instalação: 
 + Para instalar a tradução, basta colocar os arquivos dentro da pasta do Modpack!
@@ -36,6 +38,8 @@ ___
 + Feel free to share the download link with others!
 + However, try to join my Discord server as well! It will be a pleasure to have you there to share more updates and interact with the community.
 + Don’t miss the opportunity to be part of an amazing community!
++ Reusing the translation for monetary purposes by third parties is not allowed. The use is for individual purposes only, and all rights are reserved to the quest translator.
++ Improper appropriation of the translation, claiming authorship by someone else, is strictly prohibited. All copyright belongs to the quest translator.
 ___
 ## Instalation:
 + To install the translation, simply place the files inside the Modpack folder!
@@ -49,5 +53,6 @@ ___
 
 ### Modpack:
 + [![Prominence™ II: Hasturian Era](http://cf.way2muchnoise.eu/466901.svg "PROM2") Prominence™ II: Hasturian Era](https://www.curseforge.com/minecraft/modpacks/prominence-2-hasturian-era)
+
 
 
