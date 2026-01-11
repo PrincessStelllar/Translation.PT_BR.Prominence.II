@@ -1,4 +1,4 @@
-# Prominence™ II: Hasturian Era
+# Prominence™ II: Hasturian Era (Tradução PT_BR)
 ___
 
 + Este é o repositório para a tradução da quest PT_BR feita por PrincessStellar
@@ -28,6 +28,8 @@ ___
 <br>
 
 ___
+# Prominence™ II: Hasturian Era (PT_BR Translation)
+___
 
 ### Modpack:
 + [![Prominence™ II: Hasturian Era](http://cf.way2muchnoise.eu/466901.svg "PROM2") Prominence™ II: Hasturian Era](https://www.curseforge.com/minecraft/modpacks/prominence-2-hasturian-era)
@@ -54,6 +56,7 @@ ___
 |:------------:|
 |<a href="https://discord.gg/r8zyeTXSsb"><img src="https://discordapp.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" alt="Join us on Discord!"  width="200" height="68"></a>
 <br>
+
 
 
 
